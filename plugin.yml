@@ -1,0 +1,7 @@
+main: com.spaceman.warp.Main
+version: 1.0
+name: Warp
+
+commands:
+  warp:
+    description: warp command '/warp help' for more info
